@@ -1,0 +1,12 @@
+# Dart
+.dart_tool/
+pubspec.lock
+
+# Celest
+**/.env
+.env
+/build/
+/.idea/
+/client/
+/.flutter-plugins
+/.flutter-plugins-dependencies
